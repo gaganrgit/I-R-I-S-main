@@ -1,0 +1,8 @@
+cohere>=4.37
+python-dotenv>=1.0.0
+rich>=13.7.0
+groq>=0.4.2
+googlesearch-python>=1.2.3
+selenium>=4.18.1
+webdriver-manager>=4.0.1
+mtranslate>=1.8.0 
